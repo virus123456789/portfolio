@@ -23,43 +23,6 @@ function App() {
                 </button>
             </div>
         </div>
-        <div class="max-w-7xl mx-auto flex flex-col justify-start items-center">
-            <h4 class="my-4 font-medium text-xl">Most freuently work with and expertise level.</h4>
-            <div class="flex justify-start items-center">
-                <div class="relative mr-4 p-4 bg-green-50 rounded-lg cursor-pointer">
-                    <h6 class="p-2 text-base text-green-800 font-normal">Javascript</h6>
-                    <span class="absolute w-24 h-2 bottom-2 left-0 bg-green-500 rounded-r-xl"></span>
-                </div>
-                <div class="relative mr-4 p-4 bg-green-50 rounded-lg cursor-pointer">
-                    <h6 class="p-2 text-base text-green-800 font-normal">Mongo DB</h6>
-                    <span class="absolute w-20 h-2 bottom-2 left-0 bg-green-400 rounded-r-xl"></span>
-                </div>
-                <div class="relative mr-4 p-4 bg-green-50 rounded-lg cursor-pointer">
-                    <h6 class="p-2 text-base text-green-800 font-normal">Express JS</h6>
-                    <span class="absolute w-20 h-2 bottom-2 left-0 bg-green-400 rounded-r-xl"></span>
-                </div>
-                <div class="relative mr-4 p-4 bg-green-50 rounded-lg cursor-pointer">
-                    <h6 class="p-2 text-base text-green-800 font-normal">React JS</h6>
-                    <span class="absolute w-28 h-2 bottom-2 left-0 bg-green-600 rounded-r-xl"></span>
-                </div>
-                <div class="relative mr-4 p-4 bg-green-50 rounded-lg cursor-pointer">
-                    <h6 class="p-2 text-base text-green-800 font-normal">Node JS</h6>
-                    <span class="absolute w-20 h-2 bottom-2 left-0 bg-green-500 rounded-r-xl"></span>
-                </div>
-                <div class="relative mr-4 p-4 bg-green-50 rounded-lg cursor-pointer">
-                    <h6 class="p-2 text-base text-green-800 font-normal">Tailwind CSS</h6>
-                    <span class="absolute w-28 h-2 bottom-2 left-0 bg-green-500 rounded-r-xl"></span>
-                </div>
-                <div class="relative mr-4 p-4 bg-green-50 rounded-lg cursor-pointer">
-                    <h6 class="p-2 text-base text-green-800 font-normal">Java</h6>
-                    <span class="absolute w-14 h-2 bottom-2 left-0 bg-green-400 rounded-r-xl"></span>
-                </div>
-                <div class="relative mr-4 p-4 bg-yellow-50 rounded-lg cursor-pointer">
-                    <h6 class="p-2 text-base text-yellow-800 font-normal">Spring Boot</h6>
-                    <span class="absolute w-14 h-2 bottom-2 left-0 bg-yellow-400 rounded-r-xl"></span>
-                </div>
-            </div>
-        </div>
     </div>
   );
 }
