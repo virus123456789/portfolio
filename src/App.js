@@ -2,12 +2,13 @@ function App() {
   return (
     <div className="w-full mx-auto font-lexend">
         <div className="relative w-full h-[480px] flex justify-between items-center overflow-hidden">
-            <div className="absolute top-80 -left-6 w-52 sm:w-80 h-52 sm:h-80 rounded-full bg-green-50"></div>
-            <div className="absolute bottom-80 -right-6 w-52 sm:w-80 h-52 sm:h-80 rounded-full bg-green-50"></div>
+            <div className="absolute top-80 -left-6 w-80 sm:w-80 h-80 sm:h-80 rounded-full bg-green-50"></div>
+            <div className="absolute bottom-80 -right-6 w-80 sm:w-80 h-80 sm:h-80 rounded-full bg-green-50"></div>
             <div className="p-4 z-10">
                 <div className="text-7xl font-semibold text-green-900">
                     <h1 className="">Hello</h1>
-                    <h1 className="">I'am <span className="text-green-500">Akhil Thomas</span></h1> 
+                    <h1 className="">I'am</h1>
+                    <span className="text-green-500">Akhil Thomas</span>
                 </div>
                 <div className="p">
                       <p className="my-4 text-sm leading-tight text-green-800">Software Developer at <span className="text-sm font-medium text-green-900">Tata Consultancy Services (TCS)</span></p>
