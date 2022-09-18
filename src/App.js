@@ -1,6 +1,18 @@
 function App() {
   return (
     <div class="w-full mx-auto font-lexend">
+          <div className="relative w-full h-96 flex justify-between items-center overflow-hidden">
+            <div class="absolute top-56 -left-6 w-48 h-48 rounded-full bg-green-50"></div>
+            {/* <div class="absolute bottom-16 -right-0 w-16 h-16 rounded-full bg-green-50"></div> */}
+            <div className="p-4 z-10">
+                <div className="text-green-900">
+                    <h1 class="text-7xl font-semibold">Hello</h1>
+                    <h1 class="text-7xl font-semibold">I'am <span class="text-green-500">Akhil Thomas</span></h1> 
+                </div>
+            </div>
+        </div>
+          
+          
         <div class="relative max-w-7xl h-[480px] mx-auto bg-white flex justify-between items-center overflow-hidden">
             <div class="absolute top-44 -left-10 w-96 h-96 rounded-full bg-green-50"></div>
             <div class="absolute bottom-44 -right-20 w-96 h-96 rounded-full bg-green-50"></div>
