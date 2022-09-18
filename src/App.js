@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="w-full mx-auto font-lexend">
-        <div className="relative w-full h-[480px] flex justify-between items-center overflow-hidden">
+        <div className="relative w-full sm:max-w-7xl h-[480px] flex justify-between items-center overflow-hidden">
             <div className="absolute top-80 -left-6 w-80 sm:w-80 h-80 sm:h-80 rounded-full bg-green-50"></div>
             <div className="absolute bottom-80 -right-6 w-80 sm:w-80 h-80 sm:h-80 rounded-full bg-green-50"></div>
             <div className="p-4 z-10">
