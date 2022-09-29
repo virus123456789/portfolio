@@ -5,7 +5,7 @@ function App() {
             <div className="absolute top-80 -left-6 w-80 sm:w-80 h-80 sm:h-80 rounded-full bg-green-50"></div>
             <div className="absolute bottom-80 -right-6 w-80 sm:w-80 h-80 sm:h-80 rounded-full bg-green-50"></div>
             <div className="p-4 z-10">
-                <div className="text-8xl font-semibold text-green-900">
+                <div className="text-6xl md:text-8xl font-semibold text-green-900">
                     <h1 className="">Hello</h1>
                     <h1 className="">I am</h1>
                     <span className="text-green-500">Akhil Thomas</span>
